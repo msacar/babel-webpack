@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Bower dependency directory (https://bower.io/)
+bower_components
+
+package-lock.json
+
+# ide
+.idea
